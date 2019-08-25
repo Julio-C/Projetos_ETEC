@@ -1,0 +1,60 @@
+D:\Escola\etec\2modulo\DS\c#\exercicios\02-09-2015\Trabalho\Trabalho\bin\Debug\Trabalho.exe.config
+D:\Escola\etec\2modulo\DS\c#\exercicios\02-09-2015\Trabalho\Trabalho\bin\Debug\Trabalho.exe
+D:\Escola\etec\2modulo\DS\c#\exercicios\02-09-2015\Trabalho\Trabalho\bin\Debug\Trabalho.pdb
+D:\Escola\etec\2modulo\DS\c#\exercicios\02-09-2015\Trabalho\Trabalho\obj\Debug\Trabalho.csprojResolveAssemblyReference.cache
+D:\Escola\etec\2modulo\DS\c#\exercicios\02-09-2015\Trabalho\Trabalho\obj\Debug\Trabalho.Form1.resources
+D:\Escola\etec\2modulo\DS\c#\exercicios\02-09-2015\Trabalho\Trabalho\obj\Debug\Trabalho.Properties.Resources.resources
+D:\Escola\etec\2modulo\DS\c#\exercicios\02-09-2015\Trabalho\Trabalho\obj\Debug\Trabalho.csproj.GenerateResource.Cache
+D:\Escola\etec\2modulo\DS\c#\exercicios\02-09-2015\Trabalho\Trabalho\obj\Debug\Trabalho.exe
+D:\Escola\etec\2modulo\DS\c#\exercicios\02-09-2015\Trabalho\Trabalho\obj\Debug\Trabalho.pdb
+C:\Users\lab\Desktop\Trabalho\Trabalho\bin\Debug\Trabalho.exe.config
+C:\Users\lab\Desktop\Trabalho\Trabalho\obj\Debug\Trabalho.exe
+C:\Users\lab\Desktop\Trabalho\Trabalho\obj\Debug\Trabalho.pdb
+C:\Users\lab\Desktop\Trabalho\Trabalho\bin\Debug\Trabalho.exe
+C:\Users\lab\Desktop\Trabalho\Trabalho\bin\Debug\Trabalho.pdb
+C:\Users\lab\Desktop\Trabalho\Trabalho\obj\Debug\Trabalho.csprojResolveAssemblyReference.cache
+C:\Users\lab\Desktop\Trabalho\Trabalho\obj\Debug\Trabalho.Form1.resources
+C:\Users\lab\Desktop\Trabalho\Trabalho\obj\Debug\Trabalho.Properties.Resources.resources
+C:\Users\lab\Desktop\Trabalho\Trabalho\obj\Debug\Trabalho.csproj.GenerateResource.Cache
+K:\etec\2°TIN\DS 1\Trabalho_pratico\Trabalho\bin\Debug\Trabalho.exe.config
+K:\etec\2°TIN\DS 1\Trabalho_pratico\Trabalho\obj\Debug\Trabalho.exe
+K:\etec\2°TIN\DS 1\Trabalho_pratico\Trabalho\obj\Debug\Trabalho.pdb
+F:\etec\2°TIN\DS 1\Trabalho_pratico\Trabalho\bin\Debug\Trabalho.exe.config
+F:\etec\2°TIN\DS 1\Trabalho_pratico\Trabalho\obj\Debug\Trabalho.exe
+F:\etec\2°TIN\DS 1\Trabalho_pratico\Trabalho\obj\Debug\Trabalho.pdb
+C:\Users\Julio\Desktop\Trabalho_timersplash 7_10\Trabalho\bin\Debug\Trabalho.exe.config
+C:\Users\Julio\Desktop\Trabalho_timersplash 7_10\Trabalho\obj\Debug\Trabalho.exe
+C:\Users\Julio\Desktop\Trabalho_timersplash 7_10\Trabalho\obj\Debug\Trabalho.pdb
+C:\Users\Julio\Desktop\Trabalho_timersplash 7_10\Trabalho\bin\Debug\Trabalho.exe
+C:\Users\Julio\Desktop\Trabalho_timersplash 7_10\Trabalho\bin\Debug\Trabalho.pdb
+C:\Users\Julio\Desktop\Trabalho_timersplash 7_10\Trabalho\obj\Debug\Trabalho.csprojResolveAssemblyReference.cache
+C:\Users\Julio\Desktop\Trabalho_timersplash 7_10\Trabalho\obj\Debug\Trabalho.Properties.Resources.resources
+C:\Users\Julio\Desktop\Trabalho_timersplash 7_10\Trabalho\obj\Debug\Trabalho.timersplashfrm.resources
+C:\Users\Julio\Desktop\Trabalho_timersplash 7_10\Trabalho\obj\Debug\Trabalho.csproj.GenerateResource.Cache
+C:\Users\Julio\Desktop\Trabalho_timersplash 7_10\Trabalho\obj\Debug\Trabalho.frmmenu.resources
+C:\Users\Julio\Desktop\Trabalho_timersplash 7_10\Trabalho\obj\Debug\Trabalho.vendas.resources
+F:\Trabalho\Trabalho_timersplash 7_10\Trabalho\bin\Debug\Trabalho.exe.config
+F:\Trabalho\Trabalho_timersplash 7_10\Trabalho\obj\Debug\Trabalho.exe
+F:\Trabalho\Trabalho_timersplash 7_10\Trabalho\obj\Debug\Trabalho.pdb
+F:\Trabalho\Trabalho_timersplash 7_10\Trabalho\bin\Debug\Trabalho.exe
+F:\Trabalho\Trabalho_timersplash 7_10\Trabalho\bin\Debug\Trabalho.pdb
+F:\Trabalho\Trabalho_timersplash 7_10\Trabalho\obj\Debug\Trabalho.csprojResolveAssemblyReference.cache
+F:\Trabalho\Trabalho_timersplash 7_10\Trabalho\obj\Debug\Trabalho.frmmenu.resources
+F:\Trabalho\Trabalho_timersplash 7_10\Trabalho\obj\Debug\Trabalho.vendas.resources
+F:\Trabalho\Trabalho_timersplash 7_10\Trabalho\obj\Debug\Trabalho.Properties.Resources.resources
+F:\Trabalho\Trabalho_timersplash 7_10\Trabalho\obj\Debug\Trabalho.timersplashfrm.resources
+F:\Trabalho\Trabalho_timersplash 7_10\Trabalho\obj\Debug\Trabalho.csproj.GenerateResource.Cache
+L:\Trabalho\Trabalho_timersplash 7_10\Trabalho\bin\Debug\Trabalho.exe.config
+L:\Trabalho\Trabalho_timersplash 7_10\Trabalho\obj\Debug\Trabalho.exe
+L:\Trabalho\Trabalho_timersplash 7_10\Trabalho\obj\Debug\Trabalho.pdb
+L:\Trabalho\Trabalho_timersplash 7_10\Trabalho\bin\Debug\Trabalho.exe
+L:\Trabalho\Trabalho_timersplash 7_10\Trabalho\bin\Debug\Trabalho.pdb
+L:\Trabalho\Trabalho_timersplash 7_10\Trabalho\obj\Debug\Trabalho.csprojResolveAssemblyReference.cache
+L:\Trabalho\Trabalho_timersplash 7_10\Trabalho\obj\Debug\Trabalho.frmmenu.resources
+L:\Trabalho\Trabalho_timersplash 7_10\Trabalho\obj\Debug\Trabalho.vendas.resources
+L:\Trabalho\Trabalho_timersplash 7_10\Trabalho\obj\Debug\Trabalho.Properties.Resources.resources
+L:\Trabalho\Trabalho_timersplash 7_10\Trabalho\obj\Debug\Trabalho.timersplashfrm.resources
+L:\Trabalho\Trabalho_timersplash 7_10\Trabalho\obj\Debug\Trabalho.csproj.GenerateResource.Cache
+C:\Users\Julio\Desktop\outros\pen drive\Trabalho\Trabalho_timersplash 7_10\Trabalho\bin\Debug\Trabalho.exe.config
+C:\Users\Julio\Desktop\outros\pen drive\Trabalho\Trabalho_timersplash 7_10\Trabalho\obj\Debug\Trabalho.exe
+C:\Users\Julio\Desktop\outros\pen drive\Trabalho\Trabalho_timersplash 7_10\Trabalho\obj\Debug\Trabalho.pdb

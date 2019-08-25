@@ -1,0 +1,31 @@
+F:\etec\c#\Trabalho1\Trabalho\bin\Debug\Trabalho.exe.config
+E:\etec\c#\Trabalho1\Trabalho\bin\Debug\Trabalho.exe.config
+E:\etec\c#\Trabalho1\Trabalho\bin\Debug\Trabalho.exe
+E:\etec\c#\Trabalho1\Trabalho\bin\Debug\Trabalho.pdb
+E:\etec\c#\Trabalho1\Trabalho\obj\Debug\Trabalho.csprojResolveAssemblyReference.cache
+E:\etec\c#\Trabalho1\Trabalho\obj\Debug\Trabalho.Form1.resources
+E:\etec\c#\Trabalho1\Trabalho\obj\Debug\Trabalho.Properties.Resources.resources
+E:\etec\c#\Trabalho1\Trabalho\obj\Debug\Trabalho.csproj.GenerateResource.Cache
+E:\etec\c#\Trabalho1\Trabalho\obj\Debug\Trabalho.exe
+E:\etec\c#\Trabalho1\Trabalho\obj\Debug\Trabalho.pdb
+K:\etec\c#\Trabalho1\Trabalho\bin\Debug\Trabalho.exe.config
+K:\etec\c#\Trabalho1\Trabalho\obj\Debug\Trabalho.exe
+K:\etec\c#\Trabalho1\Trabalho\obj\Debug\Trabalho.pdb
+K:\etec\c#\Trabalho1\Trabalho\obj\Debug\Trabalho.csprojResolveAssemblyReference.cache
+K:\etec\c#\Trabalho1\Trabalho\obj\Debug\Trabalho.Form1.resources
+K:\etec\c#\Trabalho1\Trabalho\obj\Debug\Trabalho.Properties.Resources.resources
+K:\etec\c#\Trabalho1\Trabalho\obj\Debug\Trabalho.csproj.GenerateResource.Cache
+K:\etec\c#\Trabalho1\Trabalho\bin\Debug\Trabalho.exe
+K:\etec\c#\Trabalho1\Trabalho\bin\Debug\Trabalho.pdb
+K:\etec\c#\Trabalho1-c#-julio\Trabalho\bin\Debug\Trabalho.exe.config
+K:\etec\c#\Trabalho1-c#-julio\Trabalho\obj\Debug\Trabalho.exe
+K:\etec\c#\Trabalho1-c#-julio\Trabalho\obj\Debug\Trabalho.pdb
+K:\etec\c#\Trabalho1-c#-julio\Trabalho\obj\Debug\Trabalho.csprojResolveAssemblyReference.cache
+K:\etec\c#\Trabalho1-c#-julio\Trabalho\obj\Debug\Trabalho.Form1.resources
+K:\etec\c#\Trabalho1-c#-julio\Trabalho\obj\Debug\Trabalho.csproj.GenerateResource.Cache
+E:\etec\2°TIN\DS 1\c# 2\Trabalho1- julio-c#\Trabalho\bin\Debug\Trabalho.exe.config
+E:\etec\2°TIN\DS 1\c# 2\Trabalho1- julio-c#\Trabalho\obj\Debug\Trabalho.exe
+E:\etec\2°TIN\DS 1\c# 2\Trabalho1- julio-c#\Trabalho\obj\Debug\Trabalho.pdb
+F:\etec\2°TIN\DS 1\c# 2\Trabalho1- julio-c#\Trabalho\bin\Debug\Trabalho.exe.config
+F:\etec\2°TIN\DS 1\c# 2\Trabalho1- julio-c#\Trabalho\obj\Debug\Trabalho.exe
+F:\etec\2°TIN\DS 1\c# 2\Trabalho1- julio-c#\Trabalho\obj\Debug\Trabalho.pdb

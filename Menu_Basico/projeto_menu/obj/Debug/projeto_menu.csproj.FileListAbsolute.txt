@@ -1,0 +1,17 @@
+K:\etec\2°TIN\DS 1\C#\projeto_menu\projeto_menu\bin\Debug\projeto_menu.exe.config
+K:\etec\2°TIN\DS 1\C#\projeto_menu\projeto_menu\bin\Debug\projeto_menu.exe
+K:\etec\2°TIN\DS 1\C#\projeto_menu\projeto_menu\bin\Debug\projeto_menu.pdb
+K:\etec\2°TIN\DS 1\C#\projeto_menu\projeto_menu\obj\Debug\projeto_menu.csprojResolveAssemblyReference.cache
+K:\etec\2°TIN\DS 1\C#\projeto_menu\projeto_menu\obj\Debug\projeto_menu.Form1.resources
+K:\etec\2°TIN\DS 1\C#\projeto_menu\projeto_menu\obj\Debug\projeto_menu.Properties.Resources.resources
+K:\etec\2°TIN\DS 1\C#\projeto_menu\projeto_menu\obj\Debug\projeto_menu.csproj.GenerateResource.Cache
+K:\etec\2°TIN\DS 1\C#\projeto_menu\projeto_menu\obj\Debug\projeto_menu.exe
+K:\etec\2°TIN\DS 1\C#\projeto_menu\projeto_menu\obj\Debug\projeto_menu.pdb
+K:\etec\2°TIN\DS 1\C#\projeto_menu\projeto_menu\obj\Debug\projeto_menu.FrmCombo.resources
+K:\etec\2°TIN\DS 1\C#\projeto_menu\projeto_menu\obj\Debug\projeto_menu.FrmRadio.resources
+E:\etec\2°TIN\DS 1\C#\projeto_menu\projeto_menu\bin\Debug\projeto_menu.exe.config
+E:\etec\2°TIN\DS 1\C#\projeto_menu\projeto_menu\obj\Debug\projeto_menu.exe
+E:\etec\2°TIN\DS 1\C#\projeto_menu\projeto_menu\obj\Debug\projeto_menu.pdb
+F:\Nova pasta\Nova pasta (3)\Estudos\Etec\bkp - pen drive\ETEC\2°TIN\DS 1\C#\projeto_menu\projeto_menu\bin\Debug\projeto_menu.exe.config
+F:\Nova pasta\Nova pasta (3)\Estudos\Etec\bkp - pen drive\ETEC\2°TIN\DS 1\C#\projeto_menu\projeto_menu\obj\Debug\projeto_menu.exe
+F:\Nova pasta\Nova pasta (3)\Estudos\Etec\bkp - pen drive\ETEC\2°TIN\DS 1\C#\projeto_menu\projeto_menu\obj\Debug\projeto_menu.pdb

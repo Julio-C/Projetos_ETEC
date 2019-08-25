@@ -1,0 +1,29 @@
+object Form4: TForm4
+  Left = 441
+  Height = 326
+  Top = 167
+  Width = 312
+  Caption = 'PRODUTOS DO MESMO FABRICANTE'
+  ClientHeight = 326
+  ClientWidth = 312
+  Color = clHotLight
+  LCLVersion = '1.2.6.0'
+  object ListBox1: TListBox
+    Left = 32
+    Height = 272
+    Top = 8
+    Width = 244
+    ItemHeight = 0
+    OnClick = ListBox1Click
+    TabOrder = 0
+  end
+  object Button1: TButton
+    Left = 136
+    Height = 25
+    Top = 288
+    Width = 40
+    Caption = 'OK'
+    OnClick = Button1Click
+    TabOrder = 1
+  end
+end
